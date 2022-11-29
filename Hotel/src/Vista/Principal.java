@@ -1,7 +1,7 @@
 package Vista;
 
 public class Principal {
-	//Clase Principal
+	
 
 	public static void main(String[] args) {
 		
