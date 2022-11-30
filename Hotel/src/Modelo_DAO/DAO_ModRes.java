@@ -12,7 +12,6 @@ import javax.swing.JOptionPane;
 import Vista.ModificarReservacion;
 import Vista.VentanaPrincipal;
 
-//Conexion a la base de datos
 public class DAO_ModRes {
 	String usuario="root";
 	String contrasena="user123";
