@@ -2,7 +2,7 @@ package Vista;
 
 public class Principal {
 	
-
+//Clase principal
 	public static void main(String[] args) {
 	
 		VentanaPrincipal vp = null;
